@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThreeSwords66&show_icons=true&theme=tokyonight)
 <!--
 **ThreeSwords66/ThreeSwords66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
