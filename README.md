@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 <!--
 **ThreeSwords66/ThreeSwords66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
