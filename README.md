@@ -4,7 +4,7 @@
 🎮Games: ![skills](https://img.shields.io/badge/Steam-000000?style=style-plastic-green&logo=steam&logoColor=white) ![skills](https://img.shields.io/badge/Battle.net-000?style=style-plastic-green&logo=battle.net&logoColor=148EFF) ![skills](https://img.shields.io/badge/Origin-FFA500?style=style-plastic-green&logo=origin&logoColor=white)
 
 
-💻Workspac: ![skills](https://img.shields.io/badge/NVIDIA-GTX3060ti-76B900?style=style-plastic-green&logo=nvidia&logoColor=white) ![skills](https://img.shields.io/badge/Windows_10-PC-0078D6?style=style-plastic-green&logo=windows&logoColor=white) 
+💻Workspace: ![skills](https://img.shields.io/badge/NVIDIA-GTX3060ti-76B900?style=style-plastic-green&logo=nvidia&logoColor=white) ![skills](https://img.shields.io/badge/Windows_10-PC-0078D6?style=style-plastic-green&logo=windows&logoColor=white) 
 
 👾IDE: ![skills](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=style-plastic-green&logo=visual%20studio%20code&logoColor=white) ![skills](https://img.shields.io/badge/Visual_Studio-5C2D91?style=style-plastic-green&logo=visual%20studio&logoColor=white) ![skills](https://img.shields.io/badge/Arduino_IDE-00979D?style=style-plastic-green&logo=arduino&logoColor=white) ![skills](https://img.shields.io/badge/Eclipse-2C2255?style=style-plastic-green&logo=eclipse&logoColor=white) ![skills](https://img.shields.io/badge/PyCharm-8EC21F.svg?&style=style-plastic-green&logo=PyCharm&logoColor=white)
 
